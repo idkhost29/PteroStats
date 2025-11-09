@@ -53,7 +53,7 @@ button:
   enable: true # Enable or disable buttons in messages.
   row1:
     - label: "Panel" # Label for the first button.
-      url: "https://panel.example.com" # URL for the first button.
+      url: "https://game.ryzencloud.fun" # URL for the first button.
 #    - label: "Dashboard" # Remove "#" at the start of the line to use this button
 #      url: "https://dash.example.com" # Remove "#" at the start of the line to use this button
 #  row2: # Remove "#" at the start of the line to use this row
