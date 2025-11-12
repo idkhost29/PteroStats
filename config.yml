@@ -43,7 +43,7 @@ embed:
     timestamp: true # Include a timestamp in the nodes embed (true/false).
     color: "5865F2" # Embed color in hex format.
     footer:
-      text: "By @HirziDevs" # Footer text for nodes stats.
+      text: "By @rdxgamerz123" # Footer text for nodes stats.
       icon: "" # Footer icon URL.
     thumbnail: "" # Thumbnail URL for the nodes stats embed.
     image: "" # Image URL for the nodes stats embed.
